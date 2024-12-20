@@ -93,7 +93,7 @@
         </section>
     </div>
     <footer>
-        <p>&copy; Kemikha Chan-Ngam | Email: <a href="mailto:kemikha.c@gmail.com">kemikha.c@gmail.com</a></p>
+        <p>&copy; 096-371-5424 | Email: <a href="mailto:kemikha.c@gmail.com">kemikha.c@gmail.com</a></p>
     </footer>
 </body>
 </html>
