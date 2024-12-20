@@ -68,16 +68,16 @@
 </head>
 <body>
     <header>
-        <h1>Portfolio of Khemika Chan-Ngam</h1>
+        <h1>Portfolio of Kemikha Chan-Ngam</h1>
     </header>
     <div class="container">
         <section class="profile">
-            <img src="IMG_0400.jpeg" alt="Khemika's Profile Picture">
-            <p><strong>Name:</strong> Khemika Chan-Ngam</p>
+            <img src="IMG_0400.jpeg" alt="Kemikha's Profile Picture">
+            <p><strong>Name:</strong> Kemikha Chan-Ngam</p>
             <p><strong>Age:</strong> 20 years old</p>
             <p><strong>Education:</strong> Computer Science Major, Kasetsart University, Sriracha Campus</p>
             <p><strong>Interests:</strong> Reading books, learning Salesforce, playing badminton, exercising</p>
-            <p><strong>Google Drive:</strong> <a href="https://drive.google.com/drive/folders/1kykv4aPr5izAWq7ornx6RPqOwE1AqjXR" target="_blank">View My Files</a></p>
+            <p><strong>Google Drive:</strong> <a href="https://drive.google.com/drive/folders/1kykv4aPr5izAWq7ornx6RPqOwE1AqjXR" target="_blank">View My Project Files</a></p>
             <p><strong>Trailhead:</strong> <a href="https://www.salesforce.com/trailblazer/loe4c1rkfbg65vqscd" target="_blank">View My Trailhead Profile</a></p>
         </section>
       <section class="project-section">
@@ -93,7 +93,7 @@
         </section>
     </div>
     <footer>
-        <p>&copy; 2024 Khemika Chan-Ngam | Email: <a href="mailto:kemikha.c@gmail.com">kemikha.c@gmail.com</a></p>
+        <p>&copy; Kemikha Chan-Ngam | Email: <a href="mailto:kemikha.c@gmail.com">kemikha.c@gmail.com</a></p>
     </footer>
 </body>
 </html>
