@@ -11,14 +11,12 @@
             margin: 0;
             padding: 0;
         }
-
         header {
             background-color: #A9D5A5;
             color: #2C5F2D;
             padding: 20px;
             text-align: center;
         }
-
         .container {
             max-width: 800px;
             margin: 20px auto;
@@ -27,17 +25,14 @@
             border-radius: 8px;
             padding: 20px;
         }
-
         h1, h2 {
             color: #2C5F2D;
         }
-
         .profile {
             display: flex;
             flex-direction: column;
             align-items: center;
         }
-
         .profile img {
             width: 150px;
             height: 150px;
@@ -46,22 +41,18 @@
             margin-bottom: 20px;
             border: 4px solid #A9D5A5;
         }
-
         .profile p {
             color: #4F7942;
             font-size: 1.2em;
             text-align: center;
         }
-
         a {
             color: #2C5F2D;
             text-decoration: none;
         }
-
         a:hover {
             text-decoration: underline;
         }
-
         footer {
             text-align: center;
             padding: 10px;
@@ -75,7 +66,6 @@
     <header>
         <h1>Portfolio of Kemikha Chan-Ngam</h1>
     </header>
-
     <div class="container">
         <section class="profile">
             <img src="IMG_0400.jpeg" alt="Khemika's Profile Picture">
@@ -93,7 +83,6 @@
         </p>
         </section>
     </div>
-
     <footer>
         <p>&copy; kemikha.c@gmail.com</p>
     </footer>
