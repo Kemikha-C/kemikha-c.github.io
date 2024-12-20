@@ -72,7 +72,7 @@
     </header>
     <div class="container">
         <section class="profile">
-            <img src="IMG_0400.jpeg" alt="Kemikha's Profile Picture">
+            <img src="img/IMG_0400.jpeg" alt="Kemikha's Profile Picture">
             <p><strong>Name:</strong> Kemikha Chan-Ngam</p>
             <p><strong>Age:</strong> 20 years old</p>
             <p><strong>Education:</strong> Computer Science Major, Kasetsart University, Sriracha Campus</p>
