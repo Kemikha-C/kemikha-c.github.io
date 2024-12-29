@@ -1,4 +1,3 @@
-
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -18,7 +17,8 @@
             text-align: center;
         }
         .container {
-            max-width: 800px;
+            max-width: 90%;
+            width: 800px;
             margin: 20px auto;
             background-color: #FFFFFF;
             box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
@@ -32,8 +32,8 @@
             text-align: center;
         }
         .profile img {
-            width: 150px;
-            height: 150px;
+            width: 100px;
+            height: 100px;
             border-radius: 50%;
             object-fit: cover;
             margin-bottom: 20px;
@@ -41,7 +41,7 @@
         }
         .profile p {
             color: #4F7942;
-            font-size: 1.1em;
+            font-size: 1em;
             margin: 5px 0;
         }
         a {
@@ -63,6 +63,33 @@
         }
         .project-section p {
             margin: 5px 0;
+        }
+
+        /* Media Queries for Responsive Design */
+        @media (min-width: 768px) {
+            .profile img {
+                width: 150px;
+                height: 150px;
+            }
+            .profile p {
+                font-size: 1.1em;
+            }
+        }
+
+        @media (max-width: 768px) {
+            header {
+                padding: 15px;
+            }
+            .container {
+                padding: 15px;
+            }
+            .profile img {
+                width: 80px;
+                height: 80px;
+            }
+            .profile p {
+                font-size: 0.9em;
+            }
         }
     </style>
 </head>
@@ -97,3 +124,4 @@
     </footer>
 </body>
 </html>
+
