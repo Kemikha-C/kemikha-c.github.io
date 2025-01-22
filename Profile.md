@@ -109,6 +109,7 @@
         </section>
       <section class="project-section">
             <h2>Projects</h2>
+          <p><strong>Geographical Indication:</strong> <a href="https://public.tableau.com/app/profile/kemikha.chan.ngam/viz/GI_Ex4/GI?publish=yes" target="_blank">View Dashboard</a></p>
             <p><strong>Marvel Dashboard:</strong> <a href="https://public.tableau.com/app/profile/kemikha.chan.ngam/viz/Dashboard_Mavel/Dashboard" target="_blank">View Dashboard</a></p>
             <p><strong>Marvel Story:</strong> <a href="https://public.tableau.com/app/profile/kemikha.chan.ngam/viz/Story_Mavel/Story" target="_blank">View Story</a></p>
             <h3>Project Description:</h3>
